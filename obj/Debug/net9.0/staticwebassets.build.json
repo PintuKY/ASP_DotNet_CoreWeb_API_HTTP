@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8a5zGE2OIMRWL8j2punTBEabEQAC5exEgMzRW3gtBD0=",
+  "Source": "Web_based_ticket_management_WebAPI",
+  "BasePath": "_content/Web_based_ticket_management_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

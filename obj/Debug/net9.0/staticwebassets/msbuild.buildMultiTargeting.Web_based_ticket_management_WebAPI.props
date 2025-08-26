@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_based_ticket_management_WebAPI.props" />
+</Project>

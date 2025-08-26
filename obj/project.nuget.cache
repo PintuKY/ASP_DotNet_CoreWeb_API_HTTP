@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QH41ppUpbtg=",
+  "success": true,
+  "projectFilePath": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pintu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\pintu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

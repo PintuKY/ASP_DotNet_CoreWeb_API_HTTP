@@ -1,0 +1,6 @@
+@Web_based_ticket_management_WebAPI_HostAddress = http://localhost:5247
+
+GET {{Web_based_ticket_management_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
