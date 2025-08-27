@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj": {}
+    "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj": {
+    "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
+        "projectUniqueName": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
         "projectName": "Web_based_ticket_management_WebAPI",
-        "projectPath": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
+        "projectPath": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
         "packagesPath": "C:\\Users\\pintu\\.nuget\\packages\\",
-        "outputPath": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\obj\\",
+        "outputPath": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,16 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
             }
           },
           "imports": [

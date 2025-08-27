@@ -1,26 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\",
+  "WorkspaceRootPath": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\.net-wpf-c#\\c-sharp-interview-q\\web_based_ticket_management_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\.net-wpf-c#\\c-sharp-interview-q\\web_based_ticket_management_webapi\\web_based_ticket_management_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\service\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:service\\iticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\appdb\\appdatabasecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:appdb\\appdatabasecontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\model\\taskticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:model\\taskticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\web_based_ticket_management_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:web_based_ticket_management_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\.net-wpf-c#\\c-sharp-interview-q\\web_based_ticket_management_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\migrations\\20250826201705_adduserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:migrations\\20250826201705_adduserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\migrations\\appdatabasecontexmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:migrations\\appdatabasecontexmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\web_based_ticket_management_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:web_based_ticket_management_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\.net-wpf-c#\\c-sharp-interview-q\\web_based_ticket_management_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\.net-wpf-c#\\c-sharp-interview-q\\web_based_ticket_management_webapi\\web_based_ticket_management_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:web_based_ticket_management_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|d:\\dotnetwpfcsharp\\csharpinterviewq\\web_based_ticket_management_webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53B94828-3A61-402D-81D0-A5385529F07A}|Web_based_ticket_management_WebAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "TaskTicket.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Model\\TaskTicket.cs",
+              "RelativeDocumentMoniker": "Model\\TaskTicket.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Model\\TaskTicket.cs",
+              "RelativeToolTip": "Model\\TaskTicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:33:11.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Model\\Ticket.cs",
+              "RelativeDocumentMoniker": "Model\\Ticket.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Model\\Ticket.cs",
+              "RelativeToolTip": "Model\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:43:10.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDatabaseContex.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\AppDB\\AppDatabaseContex.cs",
+              "RelativeDocumentMoniker": "AppDB\\AppDatabaseContex.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\AppDB\\AppDatabaseContex.cs",
+              "RelativeToolTip": "AppDB\\AppDatabaseContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:06:08.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Web_based_ticket_management_WebAPI.csproj",
-              "DocumentMoniker": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
               "RelativeDocumentMoniker": "Web_based_ticket_management_WebAPI.csproj",
-              "ToolTip": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.csproj",
               "RelativeToolTip": "Web_based_ticket_management_WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-26T07:17:50.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TicketRepository.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Repositories\\TicketRepository.cs",
+              "RelativeToolTip": "Repositories\\TicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:04:14.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITicket.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Service\\ITicket.cs",
+              "RelativeDocumentMoniker": "Service\\ITicket.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Service\\ITicket.cs",
+              "RelativeToolTip": "Service\\ITicket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:02:20.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T07:08:57.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-26T06:21:09.59Z"
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:09:07.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "DocumentIndex": 9,
+              "Title": "AppDatabaseContexModelSnapshot.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Migrations\\AppDatabaseContexModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDatabaseContexModelSnapshot.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Migrations\\AppDatabaseContexModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDatabaseContexModelSnapshot.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:27:59.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250826201705_AddUserEntity.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Migrations\\20250826201705_AddUserEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250826201705_AddUserEntity.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Migrations\\20250826201705_AddUserEntity.cs",
+              "RelativeToolTip": "Migrations\\20250826201705_AddUserEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T06:21:06.01Z"
+              "WhenOpened": "2025-08-26T20:28:03.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Web_based_ticket_management_WebAPI.http",
-              "DocumentMoniker": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.http",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.http",
               "RelativeDocumentMoniker": "Web_based_ticket_management_WebAPI.http",
-              "ToolTip": "D:\\.net-wpf-c#\\C-Sharp-interview-Q\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.http",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Web_based_ticket_management_WebAPI.http",
               "RelativeToolTip": "Web_based_ticket_management_WebAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-26T06:20:52.949Z"
+              "WhenOpened": "2025-08-26T06:20:52.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T06:21:06.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T06:21:09.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\DotNetWPFCSharp\\CSharpInterviewQ\\Web_based_ticket_management_WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:56:13.819Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_based_ticket_management_WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f0c70ddf726d8e831fca3d7a4f1129d8343a826")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_based_ticket_management_WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_based_ticket_management_WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
